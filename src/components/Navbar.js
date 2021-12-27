@@ -14,6 +14,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import resume from '../Assets/curriculum.pdf';
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -29,6 +30,7 @@ function NavBar() {
 
   window.addEventListener("scroll", scrollHandler);
 
+  
   return (
     <Navbar
       expanded={expand}
@@ -80,8 +82,9 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                as={Link}
-                to="/"
+                href={resume}
+                target="_blank"
+                download="curriculum.pdf"
                 // to="/resume"
                 onClick={() => updateExpanded(false)}
               >
