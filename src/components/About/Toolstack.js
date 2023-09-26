@@ -1,19 +1,19 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
-  SiHeroku,
-  SiGithub,
-  SiAdobeillustrator,
-  SiAdobephotoshop, SiWordpress, SiWoocommerce, SiStorybook, SiStackoverflow, SiSonarqube, SiPhpmyadmin
-} from "react-icons/si";
-import {
     DiAws,
     DiDatabase,
     DiGit,
     DiMysql,
     DiTerminal,
 } from "react-icons/di";
+import {
+    SiAdobeillustrator,
+    SiAdobephotoshop,
+    SiGithub,
+    SiHeroku,
+    SiVisualstudiocode
+} from "react-icons/si";
 
 
 function Toolstack() {

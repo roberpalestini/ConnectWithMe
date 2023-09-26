@@ -1,14 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-    DiJavascript1,
-    DiReact,
-    DiNodejs,
-    DiBootstrap,
-    DiOpenshift, 
+  DiBootstrap,
+  DiJavascript1,
+  DiNodejs,
+  DiReact
 } from "react-icons/di";
-import {SiMicrosoftazure,SiAmazonaws,SiRedhat, SiJenkins,  SiGrafana ,SiJsonwebtokens, SiKibana, SiKubernetes, SiHtml5,SiNpm,SiMongodb ,SiNestjs,SiPowerautomate, SiPostcss, SiNextdotjs, SiTypescript, SiSalesforce, SiRedux, SiReacthookform, SiReactrouter} from "react-icons/si";
-import {GiShoppingCart} from "react-icons/gi";
+import { GiShoppingCart } from "react-icons/gi";
+import { SiAmazonaws, SiHtml5, SiJsonwebtokens, SiMicrosoftazure, SiMongodb, SiRedhat, SiTypescript } from "react-icons/si";
 
 function Techstack() {
   return (
