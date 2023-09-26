@@ -26,6 +26,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install
-    - run: npm run build --if-present
-    - run: npm test
+    - run: npm install --legacy-peer-deps
+    - run: npm run --openssl-legacy-provider build  --if-present
+    - run: npm --openssl-legacy-provider test
