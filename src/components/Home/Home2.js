@@ -21,27 +21,23 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with web sites developer since 2012...️
               <br />
-              <br />I am fluent in classics and powerfulls like Html5, I also apply my passion for developing products
-              with
+              <br />Actually im Front-end Developer at Banco Galicia COMEX app (Foreign Trade), focusing on developing designs 
+ and wireframes into high-quality <i>
+                <b className="purple"> React.js and Node.js code.</b>
+              </i>  <br />
+               I am in charge of profiling and improving the performance of the front-end for Payment Order & Transfer.   <br />
+ I built a very nice series of CRUDS. (People, Contacts, Comisions, Correspondents).   <br />
+ I wrote a modern, and effective MT103/MT199 tray fetching data from Endpoints from our Microservices.
+  <br />
+              <br />
+              
+Developed from scracth Full System for Guarantee’s with  
+ &nbsp;
               <i>
-                <b className="purple"> React.js and Node.js. </b>
+                <b className="purple">Azure Auth & OAuth, JWT bearer token, BFF in Nestsjs, Backend in .Net Core 6, DevOps configuration: using redhat for Kubernetes, openshift, jenkins.</b> 
+                
               </i>
-              <br />
-              <br />
-              My field of Interest is to work Full-time remote &nbsp;
-              <i>
-                <b className="purple">in IT and Software Development company </b> 
-                 Also to help developing websites with the lastest technologies {" "}
-                <b className="purple">
-                with quality and learned skills.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for learn most popular 
-              <i>
-                <b className="purple"> Data Engineer.</b>
-              </i>
+           
             </p>
           </Col>
           <Col md={4} className="myAvatar">

@@ -5,8 +5,9 @@ import {
     DiReact,
     DiNodejs,
     DiBootstrap,
+    DiOpenshift, 
 } from "react-icons/di";
-import {SiHtml5} from "react-icons/si";
+import {SiMicrosoftazure,SiAmazonaws,SiRedhat, SiJenkins,  SiGrafana ,SiJsonwebtokens, SiKibana, SiKubernetes, SiHtml5,SiNpm,SiMongodb ,SiNestjs,SiPowerautomate, SiPostcss, SiNextdotjs, SiTypescript, SiSalesforce, SiRedux, SiReacthookform, SiReactrouter} from "react-icons/si";
 import {GiShoppingCart} from "react-icons/gi";
 
 function Techstack() {
@@ -16,10 +17,28 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftazure />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiRedhat />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJsonwebtokens />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiBootstrap />

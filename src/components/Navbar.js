@@ -40,7 +40,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+        Rober Palestini
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

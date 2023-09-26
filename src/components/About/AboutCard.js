@@ -10,7 +10,13 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I'm <span className="purple">Robert A. Palestini </span>
             from <span className="purple"> Buenos Aires, Argentina.</span>
-            <br />I'm a student, pursuing a <a href="https://utnba.centrodeelearning.com/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAixMYdvNo1lQMkYfd00My8xmLjCVs1j2-o-OtNOqVOv4SJYe3KlvrIaApsgEALw_wcB">Diploma in full stack web programming with React JS</a>.
+            <br />
+            I’m a web developer who specializes in building (and occasionally designing) exceptional
+digital experiencies on the web. <br />
+ I’m interested in finance and education. <br />
+I work with professionalism and I always keep up-to-date with new technologies. <br />
+I am currently working as a Front-end dev. I consider that I am skilled in dealing with customers and users, because I achieved a good portfolio and work contacts. <br />
+           {/* // I'm a student, pursuing a <a href="https://utnba.centrodeelearning.com/detalle/diplomatura/ 1969/diplomatura-en-programacion-web-full-stack-con-react-js?gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAixMYdvNo1lQMkYfd00My8xmLjCVs1j2-o-OtNOqVOv4SJYe3KlvrIaApsgEALw_wcB">Diploma in full stack web programming with React JS</a>. */}
             <br />
             <br />
             LinkedIn: <a href="https://www.linkedin.com/in/robert-a-palestini-483586b1/">Robert A. Palestini</a>

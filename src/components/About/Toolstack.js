@@ -5,7 +5,7 @@ import {
   SiHeroku,
   SiGithub,
   SiAdobeillustrator,
-  SiAdobephotoshop
+  SiAdobephotoshop, SiWordpress, SiWoocommerce, SiStorybook, SiStackoverflow, SiSonarqube, SiPhpmyadmin
 } from "react-icons/si";
 import {
     DiAws,
